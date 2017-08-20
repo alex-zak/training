@@ -1,2 +1,0 @@
-# training
-development training
