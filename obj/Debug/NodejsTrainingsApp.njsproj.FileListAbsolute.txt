@@ -1,3 +1,6 @@
 C:\Users\Alexander\Source\Repos\NodejsTraining\obj\Debug\NodejsTrainingsApp.njsprojResolveAssemblyReference.cache
 C:\Users\Alexander\Source\Repos\NodejsTraining\obj\Debug\NodejsTrainingsApp.njsproj.CoreCompileInputs.cache
 C:\Users\Alexander\Source\Repos\NodejsTraining\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Alexander\Source\Repos\training\obj\Debug\NodejsTrainingsApp.njsprojResolveAssemblyReference.cache
+C:\Users\Alexander\Source\Repos\training\obj\Debug\NodejsTrainingsApp.njsproj.CoreCompileInputs.cache
+C:\Users\Alexander\Source\Repos\training\bin\Microsoft.NodejsTools.WebRole.dll
